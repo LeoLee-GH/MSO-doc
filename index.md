@@ -1,17 +1,13 @@
-
 # Grasp Health ML Monitoring
 
-> **Proprietary and Confidential**  
-© 2025 Grasp Health, Inc. All rights reserved.
-
 ---
-
-## Empowering Reliable AI in Healthcare
-
-Grasp Health’s ML Monitoring Service is designed for **regulatory-compliant, production-grade monitoring** of healthcare machine learning models — without requiring any changes to your existing deployments.
-
-We help healthcare providers and SaMD vendors **track model performance, detect data drift, and ensure operational reliability** while meeting stringent security and compliance standards.
-
+<div style="background: linear-gradient(90deg, #1e88e5, #42a5f5); padding: 1.5rem; border-radius: 8px; color: white;">
+  <h2 style="margin-top: 0;">Reliable, Compliant ML Monitoring for Healthcare</h2>
+  <p style="font-size: 1.1rem; max-width: 700px;">
+    Monitor, validate, and optimize your machine learning models in production — all within your secure environment.
+    Grasp Health ML Monitoring is built for healthcare providers and SaMD vendors who need operational excellence with full regulatory compliance.
+  </p>
+</div>
 ---
 
 ## Why Grasp Health?
@@ -50,7 +46,3 @@ We help healthcare providers and SaMD vendors **track model performance, detect 
 For inquiries or demo requests:  
 📧 **Email:** [PlaceHolder]  
 📞 **Phone:** [PlaceHolder]
-
----
-© 2025 Grasp Health, Inc. All rights reserved.  
-The content of the Grasp Health ML Monitoring Service Technical Documentation is proprietary and confidential.
